@@ -16,8 +16,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * </p>
  */
 @SpringBootApplication
-public class Application {
+public class SmartApplication {
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(SmartApplication.class, args);
     }
 }
